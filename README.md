@@ -1,6 +1,6 @@
 # 3d个人网站
 
-最终效果：[月世界教程](https://ziav.cn/index.php/2022/04/15/3d-web/)
+最终效果：[月世界教程](https://ziav.cn/)
 
 <video autoplay src="https://assets.huabyte.com/blog/image/Tab-1645529042263.webm"></video>
 
