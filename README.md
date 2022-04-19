@@ -1,10 +1,10 @@
 # 3d个人网站
 
-最终效果：[月世界教程](https://ziav.cn/)
+最终效果：[月世界](https://ziav.cn/)
 
 <video autoplay src="https://assets.huabyte.com/blog/image/Tab-1645529042263.webm"></video>
 
-我自己的3d网站也是根据国外大佬改的，这里先放大佬源码地址：[https://github.com/0xFloyd/Portfolio_2020](https://github.com/0xFloyd/Portfolio_2020)
+开源地址：[https://github.com/0xFloyd/Portfolio_2020](https://github.com/0xFloyd/Portfolio_2020)
 
 ## 项目环境
 
@@ -42,7 +42,7 @@ npm run build
 
 let billboardTextures = {};
 // 第一块展板图片地址
-billboardTextures.blogTexture = '"D:\WEB_CODE\3d-website\src\jsm\blog.png"';
+billboardTextures.blogTexture = '"...src\jsm\blog.png"';
 // 第二块展板图片地址
 billboardTextures.musicTexture =
   '"D:\图片\Screenshots\music.png"';
@@ -52,15 +52,15 @@ billboardTextures.fundTexture =
 
 let boxTexture = {};
 // 链接的图标地址
-boxTexture.Github = '"D:\WEB_CODE\3d-website\src\jsm\githubLogo.png"';
-boxTexture.BiliBili = '"D:\WEB_CODE\3d-website\src\jsm\BiliBili.png"';
-boxTexture.QQ = '"D:\WEB_CODE\3d-website\src\jsm\qq.png"';
-boxTexture.mail = '"D:\WEB_CODE\3d-website\src\jsm\envelope.png"';
-boxTexture.reactIcon = 'D:\WEB_CODE\3d-website/src/jsm/react.png';
-boxTexture.allSkills = 'D:\WEB_CODE\3d-website/src/jsm/allSkills.png';
-boxTexture.lensFlareMain = 'D:\WEB_CODE\3d-website/src/jsm/lensflare0.png';
-boxTexture.skrillex = 'D:\WEB_CODE\3d-website/src/jsm/skrillex.png';
-boxTexture.edmText = 'D:\WEB_CODE\3d-website/src/jsm/EDM.png';
+boxTexture.Github = '"...src\jsm\githubLogo.png"';
+boxTexture.BiliBili = '"...src\jsm\BiliBili.png"';
+boxTexture.QQ = '"...src\jsm\qq.png"';
+boxTexture.mail = '"...src\jsm\envelope.png"';
+boxTexture.reactIcon = '...src/jsm/react.png';
+boxTexture.allSkills = '...src/jsm/allSkills.png';
+boxTexture.lensFlareMain = '...src/jsm/lensflare0.png';
+boxTexture.skrillex = '.../src/jsm/skrillex.png';
+boxTexture.edmText = '...src/jsm/EDM.png';
 
 // 砖块材质
 let stoneTexture = 'D:\WEB_CODE\3d-website/src/jsm/stone.png';
@@ -87,7 +87,7 @@ let URL = {};
 URL.blog =
   'https://ziav.cn';
 URL.ryanfloyd = 'https://ziav.cn';
-URL.fund = 'https://github.com/kemomi/FundSpider';
+URL.fund = 'https://github.com/kemomi/kemomi';
 URL.gitHub = 'https://github.com/kemomi';
 URL.BiliBili = 'https://space.bilibili.com/379088274';
 URL.email = 'https://fbee3157@gmail.com';
@@ -130,7 +130,7 @@ set -e
 npm run build
 
 # 如果是发布到自定义域名
-# echo 'www.yourwebsite.com' > CNAME
+# echo 'www.ziav.cn' > CNAME
 
 git init
 git add -A
