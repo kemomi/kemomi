@@ -2,7 +2,7 @@
 
 最终效果：[欢迎进入月世界](https://ziav.cn/)
 
-视频展示
+
 <video autoplay src="https://assets.huabyte.com/blog/image/Tab-1645529042263.webm"></video>
 
 开源地址：[https://github.com/0xFloyd/Portfolio_2020](https://github.com/0xFloyd/Portfolio_2020)
@@ -34,7 +34,7 @@ npm run build
 
 ## 代码
 
-+ 如果没有接触过`three.js`想对这个网站修改，可以看看官方文档，我的博客也有three相关文档，最近正在更新，以前写在本地没上传。
++ 如果没有接触过`three.js`想对这个网站修改，可以看看官方文档，博客也有three相关文档。
 
 + 如果拿这个网站作为模板直接修改成自己的网站的话，关注以下`代码部分`，图片可以直接拖到PS中修改成自己的导出`png`透明格式替换即可。
 
@@ -46,10 +46,10 @@ let billboardTextures = {};
 billboardTextures.blogTexture = '"...src\jsm\blog.png"';
 // 第二块展板图片地址
 billboardTextures.musicTexture =
-  '"D:\图片\Screenshots\music.png"';
+  '"...Screenshots\music.png"';
 // 第三块展板图片地址
 billboardTextures.fundTexture =
-  '"D:\WEB_CODE\3d-website\src\jsm\fund.png"';
+  '"...\src\jsm\fund.png"';
 
 let boxTexture = {};
 // 链接的图标地址
@@ -64,24 +64,24 @@ boxTexture.skrillex = '.../src/jsm/skrillex.png';
 boxTexture.edmText = '...src/jsm/EDM.png';
 
 // 砖块材质
-let stoneTexture = 'D:\WEB_CODE\3d-website/src/jsm/stone.png';
+let stoneTexture = '...src/jsm/stone.png';
 // 展板木头材质
-let woodTexture = 'D:\WEB_CODE\3d-website/src/jsm/woodTexture.jpg';
+let woodTexture = '...src/jsm/woodTexture.jpg';
 
 // 文字图片地址
 let inputText = {};
-inputText.terpSolutionsText = 'D:\WEB_CODE\3d-website/src/jsm/terp-solutions-text.png';
-inputText.activities = 'D:\WEB_CODE\3d-website/src/jsm/activities_text.png';
-inputText.bagholderBetsText = 'D:\WEB_CODE\3d-website/src/jsm/bagholderbets-text.png';
-inputText.homeSweetHomeText = 'D:\WEB_CODE\3d-website/src/jsm/home-sweet-home-text.png';
-inputText.staticPortfolio = 'D:\WEB_CODE\3d-website/src/jsm/static-portfolio.png';
-inputText.pcControl = 'D:\WEB_CODE\3d-website/src/jsm/pc-control.png'
-inputText.mobileControl = 'D:\WEB_CODE\3d-website/src/jsm/mobile-control.png'
-inputText.link = 'D:\WEB_CODE\3d-website/src/jsm/link.png'
+inputText.terpSolutionsText = '...src/jsm/terp-solutions-text.png';
+inputText.activities = '...src/jsm/activities_text.png';
+inputText.bagholderBetsText = '...src/jsm/bagholderbets-text.png';
+inputText.homeSweetHomeText = '...src/jsm/home-sweet-home-text.png';
+inputText.staticPortfolio = '...src/jsm/static-portfolio.png';
+inputText.pcControl = '...src/jsm/pc-control.png'
+inputText.mobileControl = '...src/jsm/mobile-control.png'
+inputText.link = '...src/jsm/link.png'
 
 //SVG
 let SVG = {};
-SVG.reactLogo = 'D:\WEB_CODE\3d-website/src/jsm/react-svg.svg';
+SVG.reactLogo = '...src/jsm/react-svg.svg';
 
 // 链接的跳转地址
 let URL = {};
@@ -103,7 +103,8 @@ URL.devTo =
 
 不会的可以查看这个教程：[https://www.bilibili.com/video/BV12E411k74T](https://www.bilibili.com/video/BV12E411k74T)
 
-接下来我们就可以部署到免费的 Github Pages 上。我们在 Github 上新建一个仓库，这里我取得仓库名为`kemomi.github.io`，注意建好自己的仓库都应该是(你的用户名.github.io)
+接下来我们就可以部署到免费的 Github Pages 上。
+我们在 Github 上新建一个仓库，这里我取得仓库名为`kemomi.github.io`，注意建好自己的仓库都应该是(你的用户名.github.io)
 
 ![1642856469277.png](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/e1da9488e0984d94b0be2e91229d17bc~tplv-k3u1fbpfcp-watermark.image?)
 
