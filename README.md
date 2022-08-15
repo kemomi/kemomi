@@ -150,7 +150,7 @@ git push -f git@github.com:kemomi/kemomi.github.io.git main
 
 ```
 "scripts": {
-	D:\WEB_CODE\3d-website.
+	C:\WEB_CODE\3d-website.
     "deploy": "bash deploy.sh"
   },
 ```
