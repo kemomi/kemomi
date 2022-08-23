@@ -1,4 +1,5 @@
 ![IMG_6121](https://user-images.githubusercontent.com/76780905/186084820-284cdf74-f0fa-4eb8-9d4f-2d43cf0f1854.GIF)
+
 # 个人网站
 
 最终效果：[欢迎进入月世界](https://ziav.cn/)
@@ -157,3 +158,5 @@ git push -f git@github.com:kemomi/kemomi.github.io.git main
 ```
 
 就可以运行`npm run deploy`实现自动化部署啦。
+
+https://user-images.githubusercontent.com/76780905/186085678-dfe1bbf0-aff4-44ad-812d-df088f0ba392.MP4
