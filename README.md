@@ -1,6 +1,6 @@
 ![IMG_6121](https://user-images.githubusercontent.com/76780905/186084820-284cdf74-f0fa-4eb8-9d4f-2d43cf0f1854.GIF)
 
-# 个人网站
+# 个人项目
 
 最终效果：[欢迎进入月世界](https://ziav.cn/)
 
@@ -118,7 +118,9 @@ URL.devTo =
 
 > 一般部署完需要等待几分钟访问才会有，耐心等一会就行。
 
-![1642856615230.png](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/8edf097917fb4c7294fb43b6fd9fa7c0~tplv-k3u1fbpfcp-watermark.image?)
+![QQ图片20220830105306](https://user-images.githubusercontent.com/76780905/187345158-37cabc1d-72fa-4a90-8b38-8b9539202578.gif)
+
+
 
 ## 自动化脚本部署
 
@@ -159,4 +161,3 @@ git push -f git@github.com:kemomi/kemomi.github.io.git main
 
 就可以运行`npm run deploy`实现自动化部署啦。
 
-https://user-images.githubusercontent.com/76780905/186085678-dfe1bbf0-aff4-44ad-812d-df088f0ba392.MP4
