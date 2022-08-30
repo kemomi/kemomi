@@ -108,17 +108,17 @@ URL.devTo =
 接下来我们就可以部署到免费的 Github Pages 上。
 我们在 Github 上新建一个仓库，这里我取得仓库名为`kemomi.github.io`，注意建好自己的仓库都应该是(你的用户名.github.io)
 
-![1642856469277.png](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/e1da9488e0984d94b0be2e91229d17bc~tplv-k3u1fbpfcp-watermark.image?)
+![QQ图片20220830105255](https://user-images.githubusercontent.com/76780905/187345565-40306008-f036-4e22-ad99-84fafbe46289.gif)
+
 
 找到`settings`下面的`pages`
 
-![1642856524313.png](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/8f6ef96c1e074c639580daabfb935b09~tplv-k3u1fbpfcp-watermark.image?)
+
 
 注意查看自己创建的分支和这里是一样的，点击`Save`保存后，过一会点击链接就出现了。
 
 > 一般部署完需要等待几分钟访问才会有，耐心等一会就行。
 
-![QQ图片20220830105306](https://user-images.githubusercontent.com/76780905/187345158-37cabc1d-72fa-4a90-8b38-8b9539202578.gif)
 
 
 
@@ -160,4 +160,9 @@ git push -f git@github.com:kemomi/kemomi.github.io.git main
 ```
 
 就可以运行`npm run deploy`实现自动化部署啦。
+
+![QQ图片20220830105306](https://user-images.githubusercontent.com/76780905/187345608-6638f6f7-2d72-4169-b74f-a7e42d599a62.gif)
+![QQ图片20220830105318 - 副本](https://user-images.githubusercontent.com/76780905/187345633-6bc5cc2b-688c-4379-81aa-8f920523294d.gif)
+![QQ图片20220830105322](https://user-images.githubusercontent.com/76780905/187345652-923bc5cc-6df0-4c11-9fd9-bdc57ae58b6a.gif)
+![QQ图片20220830105255](https://user-images.githubusercontent.com/76780905/187345673-d385df3c-3ae4-46da-8e36-9d8c53254b8e.gif)
 
