@@ -164,5 +164,5 @@ git push -f git@github.com:kemomi/kemomi.github.io.git main
 ![QQ图片20220830105306](https://user-images.githubusercontent.com/76780905/187345608-6638f6f7-2d72-4169-b74f-a7e42d599a62.gif)
 ![QQ图片20220830105318 - 副本](https://user-images.githubusercontent.com/76780905/187345633-6bc5cc2b-688c-4379-81aa-8f920523294d.gif)
 ![QQ图片20220830105322](https://user-images.githubusercontent.com/76780905/187345652-923bc5cc-6df0-4c11-9fd9-bdc57ae58b6a.gif)
-![QQ图片20220830105255](https://user-images.githubusercontent.com/76780905/187345673-d385df3c-3ae4-46da-8e36-9d8c53254b8e.gif)
+
 
