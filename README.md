@@ -4,7 +4,7 @@
 
 最终效果：[欢迎进入月世界](https://ziav.cn/)
 
-
+![QQ图片20220830105306](https://user-images.githubusercontent.com/76780905/187345608-6638f6f7-2d72-4169-b74f-a7e42d599a62.gif)
 <video autoplay src="https://assets.huabyte.com/blog/image/Tab-1645529042263.webm"></video>
 
 开源地址：[https://github.com/0xFloyd/Portfolio_2020](https://github.com/0xFloyd/Portfolio_2020)
@@ -162,7 +162,8 @@ git push -f git@github.com:kemomi/kemomi.github.io.git main
 就可以运行`npm run deploy`实现自动化部署啦。
 
 ##
-![QQ图片20220830105306](https://user-images.githubusercontent.com/76780905/187345608-6638f6f7-2d72-4169-b74f-a7e42d599a62.gif)
+
+
 ![QQ图片20220830105318 - 副本](https://user-images.githubusercontent.com/76780905/187345633-6bc5cc2b-688c-4379-81aa-8f920523294d.gif)
 
 
