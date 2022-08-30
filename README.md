@@ -161,8 +161,12 @@ git push -f git@github.com:kemomi/kemomi.github.io.git main
 
 就可以运行`npm run deploy`实现自动化部署啦。
 
+##项目待开发
+
 ![QQ图片20220830105306](https://user-images.githubusercontent.com/76780905/187345608-6638f6f7-2d72-4169-b74f-a7e42d599a62.gif)
 ![QQ图片20220830105318 - 副本](https://user-images.githubusercontent.com/76780905/187345633-6bc5cc2b-688c-4379-81aa-8f920523294d.gif)
 ![QQ图片20220830105322](https://user-images.githubusercontent.com/76780905/187345652-923bc5cc-6df0-4c11-9fd9-bdc57ae58b6a.gif)
+![QQ图片20220830120510](https://user-images.githubusercontent.com/76780905/187346818-8f1b8b14-ccee-4c19-9483-53df40a5d953.gif)
+
 
 
