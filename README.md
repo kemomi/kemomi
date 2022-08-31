@@ -36,6 +36,7 @@ npm run build
 ## 代码
 
 + 如果没有接触过`three.js`想对这个网站修改，可以看看官方文档，博客也有three相关文档。
+![QQ图片20220830105255](https://user-images.githubusercontent.com/76780905/187345565-40306008-f036-4e22-ad99-84fafbe46289.gif)
 
 + 如果拿这个网站作为模板直接修改成自己的网站的话，关注以下`代码部分`，图片可以直接拖到PS中修改成自己的导出`png`透明格式替换即可。
 
@@ -98,7 +99,7 @@ URL.devTo =
   'http://wpa.qq.com/msgrd?v=3&uin=1443563828&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:1443563828:41';
 
 
-## 部署github-pages![QQ图片20220830105255](https://user-images.githubusercontent.com/76780905/187345565-40306008-f036-4e22-ad99-84fafbe46289.gif)
+## 部署github-pages
 
 ### 安装git
 
