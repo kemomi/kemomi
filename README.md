@@ -1,3 +1,4 @@
+![QQ图片20220830105328](https://user-images.githubusercontent.com/76780905/187663759-f506cb07-e107-405c-8c85-8256880f2be9.gif)
 ##
 ![QQ图片20220830105335 - 副本](https://user-images.githubusercontent.com/76780905/187353610-029d2df9-2a7e-4bd8-8aea-6fec4e74203b.gif)![QQ图片20220830105338](https://user-images.githubusercontent.com/76780905/187353628-9a0a9386-bf07-4ead-8872-cc929cb37ae2.gif)![QQ图片20220830105335 - 副本](https://user-images.githubusercontent.com/76780905/187353610-029d2df9-2a7e-4bd8-8aea-6fec4e74203b.gif)![QQ图片20220830105338](https://user-images.githubusercontent.com/76780905/187353628-9a0a9386-bf07-4ead-8872-cc929cb37ae2.gif)![QQ图片20220830105335 - 副本](https://user-images.githubusercontent.com/76780905/187353610-029d2df9-2a7e-4bd8-8aea-6fec4e74203b.gif)![QQ图片20220830105338](https://user-images.githubusercontent.com/76780905/187353628-9a0a9386-bf07-4ead-8872-cc929cb37ae2.gif)
 # 个人项目
@@ -36,7 +37,7 @@ npm run build
 ## 代码
 
 + 如果没有接触过`three.js`想对这个网站修改，可以看看官方文档，博客也有three相关文档。
-![QQ图片20220830105255](https://user-images.githubusercontent.com/76780905/187345565-40306008-f036-4e22-ad99-84fafbe46289.gif)
+![QQ图片20220830105255](https://user-images.githubusercontent.com/76780905/187345565-40306008-f036-4e22-ad99-84fafbe46289.gif)<video autoplay src="https://assets.huabyte.com/blog/image/Tab-1645529042263.webm"></video>
 
 + 如果拿这个网站作为模板直接修改成自己的网站的话，关注以下`代码部分`，图片可以直接拖到PS中修改成自己的导出`png`透明格式替换即可。
 
@@ -164,7 +165,7 @@ git push -f git@github.com:kemomi/kemomi.github.io.git main
 ##
 ![QQ图片20220830105306](https://user-images.githubusercontent.com/76780905/187345608-6638f6f7-2d72-4169-b74f-a7e42d599a62.gif)
 ![QQ图片20220830105318 - 副本](https://user-images.githubusercontent.com/76780905/187345633-6bc5cc2b-688c-4379-81aa-8f920523294d.gif)
-<video autoplay src="https://assets.huabyte.com/blog/image/Tab-1645529042263.webm"></video>
+
 
 
 
