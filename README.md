@@ -98,7 +98,7 @@ URL.devTo =
   'http://wpa.qq.com/msgrd?v=3&uin=1443563828&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:1443563828:41';
 
 
-## 部署github-pages
+## 部署github-pages![QQ图片20220830105255](https://user-images.githubusercontent.com/76780905/187345565-40306008-f036-4e22-ad99-84fafbe46289.gif)
 
 ### 安装git
 
@@ -107,7 +107,7 @@ URL.devTo =
 接下来我们就可以部署到免费的 Github Pages 上。
 我们在 Github 上新建一个仓库，这里我取得仓库名为`kemomi.github.io`，注意建好自己的仓库都应该是(你的用户名.github.io)
 
-![QQ图片20220830105255](https://user-images.githubusercontent.com/76780905/187345565-40306008-f036-4e22-ad99-84fafbe46289.gif)
+
 
 
 找到`settings`下面的`pages`
