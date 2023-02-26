@@ -4,17 +4,15 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kemomi&show_icons=true&theme=synthwave)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kemomi)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kemomi&show_icons=true&hide=prs)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kemomi&count_private=true)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kemomi&show_icons=true)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kemomi&repo=UE-chatgpt)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kemomi&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kemomi)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kemomi&repo=github-readme-stats)](https://github.com/kemomi/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kemomi)](https://github.com/kemomi/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kemomi&layout=compact)
 
 <a href="https://github.com/kemomi/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kemomi&repo=github-readme-stats" />
