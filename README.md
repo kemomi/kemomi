@@ -1,23 +1,13 @@
 ## Hi,I am 🌸kemomi🌈 ！
 
-![kemomi's github stats](https://github-readme-stats.vercel.app/api?username=kemomi&show_icons=true&include_all_commits=true&theme=material-palenight) ![kemomi's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kemomi&layout=compact&theme=material-palenight)
+📜 **公告栏** |  🌸 [About「kemomi」](https://github.com/kemomi)
 
-[![API Key]
-[![Star_API]
-[![Twitter]
-[![Telegram]
+![kemomi's github stats](https://github-readme-stats.vercel.app/api?username=kemomi&show_icons=true&include_all_commits=true&theme=material-palenight) 
+
+![kemomi's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kemomi&layout=compact&theme=material-palenight)
 
 
-📜 **公告栏** | 👗 🌸 [About「kemomi」]( )
-
-![KEMOMI's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kemomi&layout=compact&theme=material-palenight)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kemomi&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kemomi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-### 我的 Github 分类目录
-
-不包括过于远古的和私有的仓库，打勾的是**正在维护**（包括开发完正在维护和正在开发中）的内容，没打勾的是已经**弃坑**（包括已经完成但不再维护和半途而废）的内容。
+### My Github Project
 - 📔 代码录
   - [x] 📔 自用代码备忘录 
   - [ ] 📟 玩树莓派时写的一些脚本 [pi]()
